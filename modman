@@ -1,0 +1,31 @@
+#layouts
+app/design/frontend/base/default/layout/intersales/* app/design/frontend/base/default/layout/intersales/
+app/design/adminhtml/default/default/layout/intersales/* app/design/adminhtml/default/default/layout/intersales/
+
+#templates
+app/design/adminhtml/default/default/template/intersales/* app/design/adminhtml/default/default/template/intersales/
+app/design/frontend/base/default/template/intersales/* app/design/frontend/base/default/template/intersales/
+
+#code
+app/code/local/Intersales/* app/code/local/Intersales/
+
+#module declaration
+app/etc/modules/* app/etc/modules/
+
+#translations
+app/locale/de_DE/* app/locale/de_DE/
+
+#stylesheets
+skin/frontend/base/default/css/intersales/* skin/frontend/base/default/css/intersales/
+
+#images
+skin/frontend/base/default/images/intersales/* skin/frontend/base/default/images/intersales/
+
+#javascripts
+js/intersales/* js/intersales/
+
+#lib
+lib/Intersales/* lib/Intersales/
+
+#shell
+shell/* shell/
