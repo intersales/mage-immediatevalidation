@@ -8,6 +8,7 @@ This module modifies client side validation of Magento forms by enabling immedia
 Installation
 
 1) modman clone https://github.com/intersales/mage-immediatevalidation
+
 2) Activate in Backend: System > Configuration > interSales Modules > ImmediateValidation > General > Activated = Yes
 
 Compatibility
