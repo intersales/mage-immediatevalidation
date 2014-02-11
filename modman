@@ -7,7 +7,7 @@ app/design/adminhtml/default/default/template/intersales/* app/design/adminhtml/
 app/design/frontend/base/default/template/intersales/* app/design/frontend/base/default/template/intersales/
 
 #code
-app/code/local/Intersales/* app/code/local/Intersales/
+app/code/community/Intersales/* app/code/community/Intersales/
 
 #module declaration
 app/etc/modules/* app/etc/modules/
