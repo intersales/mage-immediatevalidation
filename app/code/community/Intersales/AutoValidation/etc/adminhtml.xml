@@ -8,9 +8,9 @@
 						<children>
 							<config>
 								<children>
-									<immediatevalidation translate="title" module="immediatevalidation">
-										<title>InterSales AG - ImmediateValidation</title>
-									</immediatevalidation>
+									<intersales_autovalidation translate="title" module="intersales_autovalidation">
+										<title>InterSales AG - AutoValidation</title>
+									</intersales_autovalidation>
 								</children>
 							</config>
 						</children>

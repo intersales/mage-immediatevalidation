@@ -7,9 +7,9 @@
 		</isag>
 	</tabs>
 	<sections>
-		<immediatevalidation translate="label" module="immediatevalidation">
+		<intersales_autovalidation translate="label" module="intersales_autovalidation">
 			<class>separator-top</class>
-			<label>ImmediateValidation</label>
+			<label>AutoValidation</label>
 			<tab>isag</tab>
 			<frontend_type>text</frontend_type>
 			<sort_order>0</sort_order>
@@ -37,6 +37,6 @@
 					</fields>
 				</general>
 			</groups>
-		</immediatevalidation>
+		</intersales_autovalidation>
 	</sections>
 </config>

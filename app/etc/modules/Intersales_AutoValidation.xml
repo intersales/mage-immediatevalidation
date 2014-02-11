@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 	<modules>
-		<Intersales_ImmediateValidation>
+		<Intersales_AutoValidation>
 			<active>true</active>
-			<codePool>local</codePool>
+			<codePool>community</codePool>
 			<depends>
 				<Mage_Page/>
 			</depends>
-		</Intersales_ImmediateValidation>
+		</Intersales_AutoValidation>
 	</modules>
 </config>
